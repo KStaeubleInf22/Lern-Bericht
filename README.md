@@ -23,7 +23,7 @@ Als ich angefangen habe, hatte ich keine Ahnung was ich hätte machen können, a
 
 [link](https://drive.google.com/file/d/1GOITan7Xg4FQdkQEh-z9ooOOvgZ5sM-w/view?usp=sharing)
 
-![Code](https://user-images.githubusercontent.com/111045576/184093941-b3603879-d036-4000-b975-ef4f892ab1f8.png)
+![Code]()
 
 ## Verifikation
 
