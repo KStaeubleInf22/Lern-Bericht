@@ -23,7 +23,7 @@ Als ich angefangen habe, hatte ich keine Ahnung was ich hätte machen können, a
 
 [link](https://drive.google.com/file/d/1GOITan7Xg4FQdkQEh-z9ooOOvgZ5sM-w/view?usp=sharing)
 
-![Code](<img-width="432"-alt="code"-src="https://user-images.githubusercontent.com/111045576/191691805-ae3562a5-a86c-425c-ace7-384e18f8012e.png">)
+![Code](file:///C:/Users/kilia/OneDrive/Bilder/code.png)
 
 ## Verifikation
 
